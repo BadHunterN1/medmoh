@@ -92,6 +92,7 @@ body {
     transition: 0.5s;
     transition-delay: 0.2s;
     margin: 20px 0 90px;
+    user-select: none;
 }
 
 .ht:hover {
