@@ -1582,7 +1582,6 @@ header .container {
     position: relative;
     overflow: hidden;
     z-index: 1;
-    transform: 0.6s;
 }
 
 .ppcon a:hover {
