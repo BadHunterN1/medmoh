@@ -1185,6 +1185,12 @@ header .container {
     margin: 0 80px 50px 0;
 }
 
+@media (max-width: 991px) {
+   .how_it_works .container>img {
+        margin: 40px 0;
+    }
+}
+
 .hitm {
     display: flex;
     flex-direction: column;
@@ -1279,7 +1285,7 @@ header .container {
     align-items: center;
     justify-content: center;
     background-color: #282c35;
-    max-width: 50%;
+    width: fit-content;
     margin: 20px auto;
     border-radius: 20px;
 }
